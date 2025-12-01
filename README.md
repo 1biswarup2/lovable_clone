@@ -1,6 +1,6 @@
-# 🛠️ Coder Buddy
+# 🛠️ lovable_clone
 
-**Coder Buddy** is an AI-powered coding assistant built with **LangGraph**. It works like a multi-agent development team that can take a natural-language request and transform it into a complete, production-ready project — file by file — using real developer workflows.
+**lovable_clone** is an AI-powered coding assistant built with **LangGraph**. It works like a multi-agent development team that can take a natural-language request and transform it into a complete, production-ready project — file by file — using real developer workflows.
 
 ---
 
