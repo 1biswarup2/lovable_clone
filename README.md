@@ -16,7 +16,7 @@ Breaks down the plan into structured engineering tasks with clear context for ea
 Implements each task, writes directly into files, and uses available tools just like a real developer.
 
 #### **Coder Agent Architecture**
-![Coder Buddy Architecture](./assets/architecture.png)
+![Coder Buddy Architecture](./lovable_clone.png)
 
 ---
 
